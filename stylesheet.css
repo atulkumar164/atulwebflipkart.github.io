@@ -1,0 +1,180 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+   
+}
+.container{
+    background-color:whitesmoke;
+    
+}
+.blue{
+    background-color:blue;
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+    
+    
+}
+.white{
+    background-color: white;
+    width: 100vw;
+    height:13vh;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    gap: 40px;
+}
+   
+.white1{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 77vh;
+    gap: 10px;
+    
+    
+}
+.blue1{
+    
+    width:60vw;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    gap: 1%;
+    
+
+}
+.blue2{
+    background-color:blue;
+    width: 40vw;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    gap: 25px;
+    font-size: 18px;
+
+}
+.one22{
+    width: 100px;
+}
+.search-box{
+    padding: 6px;
+    width: 380px;
+
+}
+.logo-text{
+    color: white;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.logo1{
+    width: 50px;
+    height: 50px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+     width: 15vw;
+    height: 77vh;
+   
+    margin:2% ;
+    gap: 15px;
+    
+    
+}
+.two{
+    width: 65vw;
+    height: 77vh;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    margin: 2%;    
+}
+.images{
+    padding:3%;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    width: 15vw;
+    height:8vh ;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.logo-txt{
+    width: 15vw;
+    height:77vh ;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    padding: 15%;
+    font-size:15px;
+    font-weight:14px;
+
+    
+}
+.txt{
+    padding: 3%;
+}
+ .white1 a{
+     color: rgb(7, 7, 7);
+    
+}
+.logo-txt ul li {
+    list-style-type: none;
+                  gap: 40px;
+                  padding: 7%;
+                
+}
+   .atu{
+       padding: 2%;
+       font-family: sans-serif;
+   }
+   .form1{
+      
+       width: 300px;
+       height: 40px;
+   } 
+   .ak{
+       padding-left: 2%;
+   }
+   .nme{
+    width: 300px;
+    height: 40px;
+   }
+   .frm{
+       display: flex;
+       gap: 10px;
+   }
+   .akm{
+       padding-left: 2%;
+       
+   }
+   .sss{
+       padding-top: 4%;
+       padding-left: 2%;
+   }
+   .ttt{
+       
+       padding: 2%;
+       
+   }
+   .mmm{
+    width: 300px;
+    height: 40px;
+
+   }
+   .nnn{
+    width: 300px;
+    height: 40px;
+
+   }
